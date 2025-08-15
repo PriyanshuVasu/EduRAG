@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+python-dotenv
+streamlit
+chromadb
+pypdf
+ragas
+beautifulsoup4
